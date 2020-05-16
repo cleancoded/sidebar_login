@@ -1,7 +1,11 @@
 === Sidebar Login ===
+
 Contributors: cleancoded
+
 Tags: login, sidebar, widget, sidebar login, meta, form, register
+
 Requires at least: 3.5
+
 Tested up to: 5.4
 
 Easily add an ajax-enhanced login widget to your WordPress site sidebar.
